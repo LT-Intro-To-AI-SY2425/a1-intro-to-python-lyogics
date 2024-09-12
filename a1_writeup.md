@@ -14,10 +14,12 @@ Mr. Berg will look at all your files to determine what you have completed.  If t
 
 1. What is your initial thoughts about the python programming language?
 
-Initially, I thought Python was a little intimidating. I have noticed that Python is an extremely 
+Initially, I thought Python was a little intimidating. I have noticed that Python is an extremely popular language to code in, compared to Java.
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
 
-
+I have programmed with Java for the past two years in my computer science classes, and I noticed that the syntax was different. Semicolons are unnecessary in Python, but you require them in Java. Not only that, but if else statements in Java can be much less concise than if else statements in Python. It also feels like a more intuitive coding language, and I think the transition to Python for me was a little easier because I had experience with Java. 
 
 3. What are some things that you learned through this assignment?
+
+Through this assignment, I learned how to write functions in Python, along with if else statements and while loops. 

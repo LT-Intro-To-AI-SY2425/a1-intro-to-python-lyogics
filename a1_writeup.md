@@ -14,7 +14,7 @@ Mr. Berg will look at all your files to determine what you have completed.  If t
 
 1. What is your initial thoughts about the python programming language?
 
-
+Initially, I thought Python was a little intimidating. I have noticed that Python is an extremely 
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
 
